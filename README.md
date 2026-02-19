@@ -1,4 +1,4 @@
-# FirstSpringApp
+# Spring Campus Registry Api
 
 Spring Boot REST API for basic student management with PostgreSQL persistence.
 
